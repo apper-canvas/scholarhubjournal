@@ -186,11 +186,12 @@ const Reports = () => {
     };
   };
 
-  const getReportTitle = () => {
+const getReportTitle = () => {
     switch (reportType) {
-      case 'student':
+      case 'student': {
         const student = students.find(s => s.Id === parseInt(selectedStudent));
         return `Student Report - ${student?.firstName} ${student?.lastName}`;
+      }
       case 'class':
         return `Class Report - Grade ${selectedGrade}`;
       case 'subject':
