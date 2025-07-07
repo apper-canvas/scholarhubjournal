@@ -1,0 +1,134 @@
+[
+  {
+    "Id": 1,
+    "studentId": 1,
+    "subject": "Mathematics",
+    "assessment": "Test 1",
+    "score": 85,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 2,
+    "studentId": 1,
+    "subject": "English",
+    "assessment": "Test 1",
+    "score": 92,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 3,
+    "studentId": 1,
+    "subject": "Science",
+    "assessment": "Test 1",
+    "score": 78,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 4,
+    "studentId": 1,
+    "subject": "History",
+    "assessment": "Test 1",
+    "score": 88,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 5,
+    "studentId": 2,
+    "subject": "Mathematics",
+    "assessment": "Test 1",
+    "score": 76,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 6,
+    "studentId": 2,
+    "subject": "English",
+    "assessment": "Test 1",
+    "score": 84,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 7,
+    "studentId": 2,
+    "subject": "Science",
+    "assessment": "Test 1",
+    "score": 90,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 8,
+    "studentId": 2,
+    "subject": "History",
+    "assessment": "Test 1",
+    "score": 82,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 9,
+    "studentId": 3,
+    "subject": "Mathematics",
+    "assessment": "Test 1",
+    "score": 95,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 10,
+    "studentId": 3,
+    "subject": "English",
+    "assessment": "Test 1",
+    "score": 87,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 11,
+    "studentId": 3,
+    "subject": "Science",
+    "assessment": "Test 1",
+    "score": 93,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 12,
+    "studentId": 3,
+    "subject": "History",
+    "assessment": "Test 1",
+    "score": 89,
+    "maxScore": 100,
+    "weight": 1.0,
+    "term": "Term 1",
+    "date": "2024-01-10"
+  }
+]
